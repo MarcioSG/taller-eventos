@@ -1,7 +1,4 @@
 
-function showAlert() {
-    alert("Hola");
-}
 
 const eldiv = document.getElementById("soyeldiv");
 
